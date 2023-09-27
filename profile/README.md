@@ -1,14 +1,4 @@
-# __그 일만 주구장창 하려고 사업 시작하셨습니까?__ 😯
-
-### 업무를 정리하세요. 남들 하나 할 때, 대표님은 열 개 할 수 있습니다.
-
-* 대표님들을 위한 업무 정리 가이드 - [한 달 걸릴 일, 일주일 만에 하기](https://blog.naver.com/starlight825)
-* 확장 시점에 있는 대표님들을 위한 프로세스 만들기 - [대표님은 직원이 하는 일 할 수 있으세요?](https://blog.naver.com/starlight825)
-  
-
-### 업무를 컴퓨터에게 맡기세요. 아무도 대표님을 못 따라갑니다.
-
-### 대표님이 원하는 인생을 살아 보세요. 쓸데없는 일에 쓸 시간이 아깝습니다. 
+# 준비 중!
 
 ![Static Badge](https://img.shields.io/badge/CEO%20Email-2A52BE)  
 danju@starlight-sangdan.com
